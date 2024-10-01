@@ -5,7 +5,7 @@
 ## Overview
 this project involves a real estate company that focuses on optimizing listing prices for houses based on their characteristics. This project involves predicting house sale prices using historical data.
 
-##Benefits
+## Benefits
 The project on predicting house prices using data analysis and machine learning has several potential beneficiaries:
 
 ### 1. **Home Buyers**
