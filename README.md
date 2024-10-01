@@ -31,6 +31,8 @@ The project on predicting house prices using data analysis and machine learning 
 ### 6. **Financial Institutions**
    - **Mortgage Assessments:** Banks and lenders can use price predictions to assess risk more accurately when offering mortgages to homebuyers.
    - **Investment Strategies:** Financial institutions can develop investment products based on the predicted trends in real estate markets.
+###7. **Students learning EDA& using SCKIT**
+        This interactive notebook can be very beneficial to students practicing eda n use of sckit-learn in python and general data cleaning, analysis and models.
 
 ### Conclusion
 The project not only helps individuals navigate the real estate market more effectively but also provides valuable data-driven insights that can improve business strategies, inform policy, and support community development efforts.
